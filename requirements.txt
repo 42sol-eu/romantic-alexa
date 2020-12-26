@@ -1,0 +1,5 @@
+speechrecognition
+
+pyttsx2
+wikipedia
+pyjokes
