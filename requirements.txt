@@ -1,5 +1,7 @@
-speechrecognition
-
-pyttsx2
-wikipedia
-pyjokes
+speechRecognition     # https://github.com/Uberi/speech_recognition#readme
+pyttsx3               # https://github.com/nateshmbhat/pyttsx3
+pywhatkit             # https://github.com/Ankit404butfound/PyWhatKit
+wikipedia             # https://github.com/goldsmith/Wikipedia
+pyjokes               # https://pyjok.es
+pyAudio               # http://people.csail.mit.edu/hubert/pyaudio/
+# portAudio # linux   # http://www.portaudio.com
